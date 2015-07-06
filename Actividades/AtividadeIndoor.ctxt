@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AtividadeIndoor()
+comment1.params=tempo\ data\ distancia
+comment1.target=AtividadeIndoor(int,\ java.util.GregorianCalendar,\ float)
+comment2.params=a
+comment2.target=AtividadeIndoor(AtividadeIndoor)
+comment3.params=
+comment3.target=double\ getDistancia()
+comment4.params=distancia
+comment4.target=void\ setDistancia(float)
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+numComments=6

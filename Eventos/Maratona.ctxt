@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Maratona()
+comment0.text=\n\ Construtores\n
+comment1.params=nome\ data\ inscritos\ numeroMaximoInscricoes\ dataLimiteInscricao\ descricao
+comment1.target=Maratona(java.lang.String,\ java.util.GregorianCalendar,\ Dados.BaseDeDadosUtilizadores,\ int,\ java.util.GregorianCalendar,\ java.lang.String)
+comment2.params=x
+comment2.target=Maratona(Maratona)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment3.text=\n\ Getters\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ M\u00E9todos\ Complementares\n
+comment5.params=
+comment5.target=Maratona\ clone()
+comment6.params=x
+comment6.target=boolean\ equals(java.lang.Object)
+numComments=7

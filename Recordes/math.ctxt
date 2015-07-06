@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=valueToRound\ numberOfDecimalPlaces
+comment0.target=double\ round(double,\ int)
+comment1.params=tempo\ distancia\ valor
+comment1.target=int\ regraTresSimples(int,\ double,\ double)
+comment2.params=tempo\ distancia\ valor
+comment2.target=double\ regraTresSimplesD(int,\ double,\ int)
+comment3.params=tempo
+comment3.target=java.lang.String\ IntToFormatedHour(int)
+numComments=4

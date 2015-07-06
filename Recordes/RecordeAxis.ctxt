@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RecordeAxis()
+comment1.params=tempo\ dist\ v
+comment1.target=RecordeAxis(int,\ double,\ double)
+comment2.params=r
+comment2.target=RecordeAxis(RecordeAxis)
+comment3.params=
+comment3.target=double\ getMaxDist()
+comment4.params=
+comment4.target=double\ getMaxVm()
+comment5.params=d
+comment5.target=void\ setMaxDist(double)
+comment6.params=v
+comment6.target=void\ setMaxVm(double)
+comment7.params=o
+comment7.target=boolean\ equals(java.lang.Object)
+numComments=8

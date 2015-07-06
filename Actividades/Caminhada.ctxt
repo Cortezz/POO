@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Caminhada()
+comment1.params=tempo\ distancia\ data\ clima\ altura
+comment1.target=Caminhada(int,\ double,\ java.util.GregorianCalendar,\ java.lang.String,\ int)
+comment2.params=f
+comment2.target=Caminhada(Caminhada)
+comment3.params=
+comment3.target=double\ factorK()
+comment4.params=o
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=
+comment5.target=Caminhada\ clone()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

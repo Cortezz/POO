@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RecordeFutebol()
+comment0.text=\n\ \ Construtores\n
+comment1.params=tempo\ dist\ v
+comment1.target=RecordeFutebol(int,\ double,\ double)
+comment2.params=r
+comment2.target=RecordeFutebol(RecordeFutebol)
+comment3.params=tempo\ distancia
+comment3.target=void\ testaRecordeFutebol(int,\ double)
+comment4.params=
+comment4.target=RecordeFutebol\ clone()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

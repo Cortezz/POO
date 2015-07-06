@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CaminhadaConjunta()
+comment0.text=\n\ Construtores\n
+comment1.params=nome\ data\ inscritos\ numeroMaximoInscricoes\ dataLimiteInscricao\ descricao\ requesito
+comment1.target=CaminhadaConjunta(java.lang.String,\ java.util.GregorianCalendar,\ Dados.BaseDeDadosUtilizadores,\ int,\ java.util.GregorianCalendar,\ java.lang.String,\ double)
+comment2.params=x
+comment2.target=CaminhadaConjunta(CaminhadaConjunta)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment3.text=\n\ Getters\n
+comment4.params=
+comment4.target=double\ getRequesito()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ M\u00E9todos\ Complementares\n
+comment6.params=
+comment6.target=CaminhadaConjunta\ clone()
+comment7.params=x
+comment7.target=boolean\ equals(java.lang.Object)
+numComments=8

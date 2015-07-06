@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RecordeGeral()
+comment1.params=tempo
+comment1.target=RecordeGeral(int)
+comment2.params=r
+comment2.target=RecordeGeral(RecordeGeral)
+comment3.params=
+comment3.target=int\ getMaxTempo()
+comment4.params=t
+comment4.target=void\ setMaxTempo(int)
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+comment6.params=
+comment6.target=RecordeGeral\ clone()
+numComments=7

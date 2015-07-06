@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RecordeGinasio()
+comment1.params=tempo
+comment1.target=RecordeGinasio(int)
+comment2.params=r
+comment2.target=RecordeGinasio(RecordeGinasio)
+comment3.params=tempo
+comment3.target=void\ testaRecordeGinasio(int)
+comment4.params=
+comment4.target=RecordeGinasio\ clone()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

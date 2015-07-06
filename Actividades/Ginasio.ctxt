@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ginasio()
+comment1.params=tempo\ data
+comment1.target=Ginasio(int,\ java.util.GregorianCalendar)
+comment2.params=w
+comment2.target=Ginasio(Ginasio)
+comment3.params=
+comment3.target=double\ factorK()
+comment4.params=o
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=Ginasio\ clone()
+numComments=7

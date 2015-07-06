@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AtividadeOutdoor()
+comment1.params=tempo\ data\ distancia\ clima
+comment1.target=AtividadeOutdoor(int,\ java.util.GregorianCalendar,\ double,\ java.lang.String)
+comment10.params=clima
+comment10.target=void\ setClima(java.lang.String)
+comment11.params=o
+comment11.target=boolean\ equals(java.lang.Object)
+comment2.params=a
+comment2.target=AtividadeOutdoor(AtividadeOutdoor)
+comment3.params=
+comment3.target=int\ calorias()
+comment4.params=
+comment4.target=double\ getDistancia()
+comment5.params=
+comment5.target=java.lang.String\ getClima()
+comment6.params=
+comment6.target=double\ getTempoHoras()
+comment7.params=
+comment7.target=double\ getVelocidadeMedia()
+comment8.params=d\ c
+comment8.target=double\ roundToDecimals(double,\ int)
+comment9.params=distancia
+comment9.target=void\ setDistancia(double)
+numComments=12
